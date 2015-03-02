@@ -1,9 +1,13 @@
-﻿       --向目标元素的后面插入元素
-	    function insertAfter(newElement, targerElement) {
-            var parent = targerElement.parentNode;
-            if (parent.lastChild == targerElement) {
-                parent.appendChild(newElement)
-            } else {
-                parent.insertBefore(newElement, targerElement.nextSibling);
-            };
-        }
+﻿ //swich测试
+    //var test = 9
+    //switch (test) {
+    //    case 9:
+    //    case 8:
+    //    case 7:
+    //        alert(44);
+    //        break;
+    //    case 4:
+    //        alert(1);
+    //        break;
+    //    default:
+    //}

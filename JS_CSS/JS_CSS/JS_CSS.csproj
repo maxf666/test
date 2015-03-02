@@ -57,6 +57,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="enrichContent.html" />
     <Content Include="gallery.html" />
     <Content Include="images\gallery\bigben.jpg" />
     <Content Include="images\gallery\coffee.jpg" />
@@ -67,7 +68,10 @@
     <Content Include="images\gallery\thumbnail_coffee.jpg" />
     <Content Include="images\gallery\thumbnail_fireworks.jpg" />
     <Content Include="images\gallery\thumbnail_rose.jpg" />
+    <Content Include="scripts\enrichContent.js" />
     <Content Include="scripts\galleryShowPic.js" />
+    <Content Include="scripts\MyScript.js" />
+    <Content Include="styles\enrichContent.css" />
     <Content Include="styles\gallery_layout.css" />
     <Content Include="text\JavaScript+DOM编程艺术.txt" />
     <Content Include="Web.config" />

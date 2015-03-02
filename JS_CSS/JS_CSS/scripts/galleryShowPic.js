@@ -43,3 +43,4 @@ function addLoadEvent(func) {
 }
 
 addLoadEvent(prepareGallery);
+
