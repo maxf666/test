@@ -4,3 +4,9 @@ F:\project\JS_CSS\JS_CSS\bin\JS_CSS.pdb
 F:\project\JS_CSS\JS_CSS\obj\Debug\JS_CSS.csprojResolveAssemblyReference.cache
 F:\project\JS_CSS\JS_CSS\obj\Debug\JS_CSS.dll
 F:\project\JS_CSS\JS_CSS\obj\Debug\JS_CSS.pdb
+F:\study\git_study\test\JS_CSS\JS_CSS\bin\JS_CSS.dll.config
+F:\study\git_study\test\JS_CSS\JS_CSS\bin\JS_CSS.dll
+F:\study\git_study\test\JS_CSS\JS_CSS\bin\JS_CSS.pdb
+F:\study\git_study\test\JS_CSS\JS_CSS\obj\Debug\JS_CSS.csprojResolveAssemblyReference.cache
+F:\study\git_study\test\JS_CSS\JS_CSS\obj\Debug\JS_CSS.dll
+F:\study\git_study\test\JS_CSS\JS_CSS\obj\Debug\JS_CSS.pdb

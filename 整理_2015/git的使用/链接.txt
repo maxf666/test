@@ -1,0 +1,10 @@
+http://blog.csdn.net/renfufei/article/details/41647937
+
+先安装
+msysGit-netinstall-1.9.5-preview20141217.exe（很慢）
+然后：
+TortoiseGit-1.8.13.0-64bit.msi
+
+根据word文档和http://blog.csdn.net/renfufei/article/details/41647937 连篇文章操作就能成功
+
+
