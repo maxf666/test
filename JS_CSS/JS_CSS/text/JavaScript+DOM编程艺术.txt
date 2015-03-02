@@ -1,0 +1,9 @@
+﻿       --向目标元素的后面插入元素
+	    function insertAfter(newElement, targerElement) {
+            var parent = targerElement.parentNode;
+            if (parent.lastChild == targerElement) {
+                parent.appendChild(newElement)
+            } else {
+                parent.insertBefore(newElement, targerElement.nextSibling);
+            };
+        }
