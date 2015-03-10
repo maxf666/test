@@ -59,6 +59,8 @@
   <ItemGroup>
     <Content Include="enrichContent.html" />
     <Content Include="gallery.html" />
+    <Content Include="html5\canvas\canvas_clock.html" />
+    <Content Include="html5\canvas\canvas_seven_piece_puzzle.html" />
     <Content Include="images\gallery\bigben.jpg" />
     <Content Include="images\gallery\coffee.jpg" />
     <Content Include="images\gallery\fireworks.jpg" />
@@ -68,10 +70,11 @@
     <Content Include="images\gallery\thumbnail_coffee.jpg" />
     <Content Include="images\gallery\thumbnail_fireworks.jpg" />
     <Content Include="images\gallery\thumbnail_rose.jpg" />
-    <Content Include="scripts\enrichContent.js" />
+    <Content Include="scripts\canvas_seven_piece_puzzle.js" />
+    <Content Include="scripts\commonScript.js" />
     <Content Include="scripts\galleryShowPic.js" />
-    <Content Include="scripts\MyScript.js" />
-    <Content Include="styles\enrichContent.css" />
+    <Content Include="scripts\html5_canvas_digit.js" />
+    <Content Include="scripts\html5_canvas_main.js" />
     <Content Include="styles\gallery_layout.css" />
     <Content Include="text\JavaScript+DOM编程艺术.txt" />
     <Content Include="Web.config" />
